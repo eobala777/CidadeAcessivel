@@ -1,6 +1,6 @@
-Aqui está uma proposta de formatação para o seu projeto, utilizando Markdown com uma estrutura profissional, organizada e de fácil leitura.
-------------------------------
-## Proposta de Projeto: Cidade Acessível## 1. Identificação
+## Proposta de Projeto: Cidade Acessível## 
+
+1. Identificação
 
 * Nome do Projeto: Cidade Acessível
 * Integrantes:
@@ -50,9 +50,3 @@ Diferente de soluções de zeladoria genéricas, o projeto foca especificamente 
 * Manutenibilidade: Código estruturado para facilitar atualizações futuras.
 * Confiabilidade: Garantia de que as informações reportadas cheguem ao destino correto.
 * Rapidez: Baixa latência no carregamento de mapas e envio de dados.
-
-------------------------------
-Você gostaria que eu elaborasse um cronograma inicial ou uma seção de tecnologias sugeridas (como React Native ou Firebase) para complementar este documento?
-
-[1] [https://www.sadsj.org](https://www.sadsj.org/index.php/revista/article/view/780#:~:text=A%20sustentabilidade%20no%20contexto%20urbano%20n%C3%A3o%20se,acesso%20equitativo%20%C3%A0s%20oportunidades%20oferecidas%20pela%20cidade.)
-[2] [https://redejuntos.org.br](https://redejuntos.org.br/ods/ods-11/#:~:text=Como%20pensar%20cidades%20para%20crian%C3%A7as%20O%20Giro,11%2C%20aquele%20sobre%20cidades%20e%20comunidades%20sustent%C3%A1veis.)
